@@ -2,5 +2,7 @@ streamlit
 pandas
 requests
 plotly
+matplotlib
 flask
 flask-cors
+
